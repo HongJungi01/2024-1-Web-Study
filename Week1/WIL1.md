@@ -26,3 +26,4 @@ ES5의 등장으로
 react의 초창기에는 관심사 분리 원칙에 어긋난다는 이유로 react에 대한 반발이 거셌다.  
 가상DOM을 활용해 DOM을 효율적으로 조작할 수 있다는 점에서 react에 대한 인정이 점차 커져갔다.  
 이러한 효율성들 덕에 react에 대한 개발은 더욱 빠르게 이루어졌고, 현재의 웹프론트엔드개발의 점유율은 react가 압도적으로 높다.  
+https://github.com/HongJungi01/2024-1-Web-Study/blob/main/Week1/image.png
